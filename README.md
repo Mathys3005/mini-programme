@@ -8,5 +8,7 @@ Listes des programmes présents :
   -Calculateur d'IMC
   -Jeu du Mad Libs
   -Jeu de Juste Prix
+  -Recherche dichotomique
+  -Générateur de mot de passe
 
 Si vous avez des questions contactez moi via discord : sakuta0239
